@@ -434,6 +434,13 @@
     "license": "BSD-3-Clause"
   },
   {
+    "name": "Docusaurus",
+    "github": "facebook/docusaurus",
+    "website": "https://docusaurus.io"
+    "license": "MIT"
+    
+  },
+  {
     "name": "Drapache",
     "github": "louissobel/Drapache",
     "website": "https://github.com/louissobel/Drapache",
